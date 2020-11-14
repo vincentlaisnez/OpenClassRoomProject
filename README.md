@@ -1,2 +1,2 @@
 # OpenClassRoomProject
-apprentissage langage python via opneclassroom
+apprentissage langage python via openclassroom
